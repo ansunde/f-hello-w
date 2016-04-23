@@ -1,2 +1,3 @@
 # f-hello-w
-wanna see how its work
+wanna see how its work 
+allthrought
